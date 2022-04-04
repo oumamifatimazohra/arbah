@@ -1,0 +1,1287 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: arbah\n"
+"POT-Creation-Date: 2020-02-17 16:41+0100\n"
+"PO-Revision-Date: 2020-02-17 16:40+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.9\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: comments.php:32 single.php:26
+#, php-format
+msgctxt "comments title"
+msgid "One thought"
+msgid_plural "%1$s thoughts"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:38
+msgid "Add yours"
+msgstr ""
+
+#: comments.php:43 comments.php:66
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:46 comments.php:69
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:47 comments.php:70
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:83
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:97
+msgid "Comment"
+msgstr ""
+
+#: comments.php:104
+msgid "Name"
+msgstr ""
+
+#: comments.php:109
+msgid "Email"
+msgstr ""
+
+#: comments.php:114
+msgid "Website"
+msgstr ""
+
+#: footer.php:48
+msgid "Developed by: "
+msgstr ""
+
+#: footer.php:48
+msgid "Arabic Themes"
+msgstr ""
+
+#: functions.php:65
+msgid "Header Menu"
+msgstr ""
+
+#: functions.php:66
+msgid "Mobile Menu"
+msgstr ""
+
+#: functions.php:67
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:109
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:111
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:195 template-parts/content.php:37
+msgid "Continue Reading"
+msgstr ""
+
+#: functions.php:247 functions.php:276
+msgid " of "
+msgstr ""
+
+#: header.php:51
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:123
+msgid "Search this website"
+msgstr ""
+
+#: inc/arbah-custom-fields.php:7
+msgid "Post Options"
+msgstr ""
+
+#: inc/arbah-custom-fields.php:28
+msgid "Display readmore button inside the post"
+msgstr ""
+
+#: inc/arbah-custom-fields.php:171
+msgid "User Image"
+msgstr ""
+
+#: inc/arbah-custom-fields.php:178 inc/widgets/ads.php:60
+msgid "Upload Image"
+msgstr ""
+
+#: inc/arbah-custom-fields.php:182
+msgid "Upload an additional image for your user profile."
+msgstr ""
+
+#: inc/arbah-custom-fields.php:213
+msgid "Behance"
+msgstr ""
+
+#: inc/arbah-custom-fields.php:214
+msgid "Dribbble"
+msgstr ""
+
+#: inc/arbah-custom-fields.php:215 inc/template-tags.php:140
+msgid "Facebook"
+msgstr ""
+
+#: inc/arbah-custom-fields.php:216
+msgid "Flickr"
+msgstr ""
+
+#: inc/arbah-custom-fields.php:217
+msgid "Github"
+msgstr ""
+
+#: inc/arbah-custom-fields.php:218
+msgid "Instagram"
+msgstr ""
+
+#: inc/arbah-custom-fields.php:219
+msgid "Linkedin"
+msgstr ""
+
+#: inc/arbah-custom-fields.php:220
+msgid "Pinterest"
+msgstr ""
+
+#: inc/arbah-custom-fields.php:221
+msgid "Reddit"
+msgstr ""
+
+#: inc/arbah-custom-fields.php:222
+msgid "RSS"
+msgstr ""
+
+#: inc/arbah-custom-fields.php:223
+msgid "Skype"
+msgstr ""
+
+#: inc/arbah-custom-fields.php:224
+msgid "Soundcloud"
+msgstr ""
+
+#: inc/arbah-custom-fields.php:225
+msgid "Tumblr"
+msgstr ""
+
+#: inc/arbah-custom-fields.php:226 inc/template-tags.php:141
+msgid "Twitter"
+msgstr ""
+
+#: inc/arbah-custom-fields.php:227
+msgid "Vimeo"
+msgstr ""
+
+#: inc/arbah-custom-fields.php:228
+msgid "Woordpress"
+msgstr ""
+
+#: inc/arbah-custom-fields.php:229
+msgid "Youtube"
+msgstr ""
+
+#: inc/customizer.php:18
+msgid "Options for arbah"
+msgstr ""
+
+#: inc/customizer.php:21
+msgid "Allows you to customize theme settings for arbah."
+msgstr ""
+
+#: inc/customizer.php:35
+msgid "Hide featured image in single posts?"
+msgstr ""
+
+#: inc/customizer.php:50
+msgid "Show related posts under the post?"
+msgstr ""
+
+#: inc/customizer.php:64
+msgid "Show post author?"
+msgstr ""
+
+#: inc/customizer.php:77
+msgid "Show post date?"
+msgstr ""
+
+#: inc/customizer.php:91
+msgid "Display social sharing buttons in posts?"
+msgstr ""
+
+#: inc/customizer.php:105
+msgid "Show author box after post content?"
+msgstr ""
+
+#: inc/customizer.php:119
+msgid "Make sidebars sticky?"
+msgstr ""
+
+#: inc/customizer.php:134
+msgid "Custom Footer Credit Text"
+msgstr ""
+
+#: inc/customizer.php:147
+msgid "Slider Options"
+msgstr ""
+
+#: inc/customizer.php:149
+msgid "Customize slider options in homepage and posts."
+msgstr ""
+
+#: inc/customizer.php:161
+msgid "Display slider in homepage?"
+msgstr ""
+
+#: inc/customizer.php:173
+msgid "Show posts from tag:"
+msgstr ""
+
+#: inc/customizer.php:187
+msgid "Posts number in the slider"
+msgstr ""
+
+#: inc/customizer.php:202
+msgid "Show a slider with radnom posts in single post ?"
+msgstr ""
+
+#: inc/customizer.php:215
+msgid "Random posts number"
+msgstr ""
+
+#: inc/customizer.php:224
+msgid "Ads Managment"
+msgstr ""
+
+#: inc/customizer.php:226
+msgid "Add ads in different placement."
+msgstr ""
+
+#: inc/customizer.php:238
+msgid "Block adblockers from browsing the site"
+msgstr ""
+
+#: inc/customizer.php:245
+msgid "Please consider supporting us by disabling your ad blocker"
+msgstr ""
+
+#: inc/customizer.php:252
+msgid "Adblock Notice"
+msgstr ""
+
+#: inc/customizer.php:253
+msgid "Notice for visitors with adblock"
+msgstr ""
+
+#: inc/customizer.php:267
+msgid "Responsive Ad"
+msgstr ""
+
+#: inc/customizer.php:268
+msgid "Display a responsive ad before header"
+msgstr ""
+
+#: inc/customizer.php:282
+msgid "Header Bottom Ad"
+msgstr ""
+
+#: inc/customizer.php:283
+msgid "Display an ad after header"
+msgstr ""
+
+#: inc/customizer.php:297
+msgid "Homepage Post Ad"
+msgstr ""
+
+#: inc/customizer.php:298
+msgid "Display an ad after the first post in homepage"
+msgstr ""
+
+#: inc/customizer.php:312
+msgid "Under Post Title Ad"
+msgstr ""
+
+#: inc/customizer.php:313
+msgid "Display an ad under post title"
+msgstr ""
+
+#: inc/customizer.php:327
+msgid "Fixed Ad"
+msgstr ""
+
+#: inc/customizer.php:328
+msgid "Display a fixed ad"
+msgstr ""
+
+#: inc/customizer.php:342
+msgid "Prev Next Links Ad"
+msgstr ""
+
+#: inc/customizer.php:343
+msgid "Display an ad before prev next links"
+msgstr ""
+
+#: inc/customizer.php:357
+msgid "Read More ad"
+msgstr ""
+
+#: inc/customizer.php:358
+msgid "Display an ad under read more button"
+msgstr ""
+
+#: inc/customizer.php:372
+msgid "Google Search Code"
+msgstr ""
+
+#: inc/customizer.php:380
+msgid "Social Profiles"
+msgstr ""
+
+#: inc/customizer.php:382
+msgid "Add your social profiles."
+msgstr ""
+
+#: inc/customizer.php:386
+msgid "Follow Us On"
+msgstr ""
+
+#: inc/customizer.php:391
+msgid "Social Profiles Title"
+msgstr ""
+
+#: inc/customizer.php:402
+msgid "Facebook Profile URL"
+msgstr ""
+
+#: inc/customizer.php:413
+msgid "Twitter Profile URL"
+msgstr ""
+
+#: inc/customizer.php:424
+msgid "Whatsapp Profile URL"
+msgstr ""
+
+#: inc/customizer.php:435
+msgid "Instagram Profile URL"
+msgstr ""
+
+#: inc/customizer.php:446
+msgid "Youtube Profile URL"
+msgstr ""
+
+#: inc/customizer.php:457
+msgid "Linkedin Profile URL"
+msgstr ""
+
+#: inc/customizer.php:476
+msgid "Accent Color"
+msgstr ""
+
+#: inc/import/arbah-demos.php:12
+msgid ""
+"Please waiting for a few minutes, do not close the window or refresh the "
+"page until the data is imported."
+msgstr ""
+
+#: inc/import/arbah-demos.php:44 inc/tgm/arbah-tgmpa.php:40
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/import/arbah-demos.php:45
+msgid "Import Demo Data"
+msgstr ""
+
+#: inc/import/arbah-demos.php:54
+msgid "Importing demo data will remove all your files"
+msgstr ""
+
+#: inc/template-tags.php:81
+msgid "By "
+msgstr ""
+
+#. translators: %s: post date
+#: inc/template-tags.php:113
+#, php-format
+msgid "<span class=\"screen-reader-text\">Posted on</span> %s"
+msgstr ""
+
+#: inc/template-tags.php:139
+msgid "Share this post with friends! "
+msgstr ""
+
+#: inc/template-tags.php:142
+msgid "Whatsapp"
+msgstr ""
+
+#: inc/template-tags.php:165
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:165 inc/template-tags.php:188
+msgid "Edit"
+msgstr ""
+
+#: inc/template-tags.php:175
+#, php-format
+msgid "%s <span class=\"says\">said:</span>"
+msgstr ""
+
+#: inc/template-tags.php:178
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:186
+#, php-format
+msgid "%1$s - %2$s"
+msgstr ""
+
+#: inc/template-tags.php:373
+msgid "Read Next"
+msgstr ""
+
+#: inc/template-tags.php:622
+msgid "Adblock Detected"
+msgstr ""
+
+#: inc/tgm/arbah-tgmpa.php:64 inc/tgm/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgm/arbah-tgmpa.php:65 inc/tgm/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgm/arbah-tgmpa.php:66 inc/tgm/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/tgm/arbah-tgmpa.php:67 inc/tgm/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/tgm/arbah-tgmpa.php:68 inc/tgm/class-tgm-plugin-activation.php:338
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/arbah-tgmpa.php:69 inc/tgm/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/arbah-tgmpa.php:70
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/arbah-tgmpa.php:71 inc/tgm/class-tgm-plugin-activation.php:368
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/arbah-tgmpa.php:72 inc/tgm/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/arbah-tgmpa.php:73
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/arbah-tgmpa.php:74 inc/tgm/class-tgm-plugin-activation.php:353
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/arbah-tgmpa.php:75
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/arbah-tgmpa.php:76 inc/tgm/class-tgm-plugin-activation.php:383
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/arbah-tgmpa.php:77 inc/tgm/class-tgm-plugin-activation.php:393
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/arbah-tgmpa.php:78 inc/tgm/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgm/arbah-tgmpa.php:79 inc/tgm/class-tgm-plugin-activation.php:399
+#: inc/tgm/class-tgm-plugin-activation.php:3029
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgm/arbah-tgmpa.php:80
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:358
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:363
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:378
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:400
+#: inc/tgm/class-tgm-plugin-activation.php:2832
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:828
+#: inc/tgm/class-tgm-plugin-activation.php:3438
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:935
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:935
+#: inc/tgm/class-tgm-plugin-activation.php:938
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:938
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1116
+#: inc/tgm/class-tgm-plugin-activation.php:2828
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1881
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2167
+msgid "Required"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2170
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2189
+msgid "External Source"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2209
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2215
+msgid "Active"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2224
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2227
+msgid "Update recommended"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2235
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2280
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2283
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2286
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2289
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2371
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2379
+msgid "Installed version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2399
+msgid "Available version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2422
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2436
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2437
+msgid "Source"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2438
+msgid "Type"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2442
+msgid "Version"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2443
+msgid "Status"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2491
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2495
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2500
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2570
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2603
+msgid "Install"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2609
+msgid "Update"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2612
+msgid "Activate"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2788
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2814
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3362
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3364
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3365
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3369
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3370
+#: inc/tgm/class-tgm-plugin-activation.php:3376
+msgid "Show Details"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3370
+#: inc/tgm/class-tgm-plugin-activation.php:3376
+msgid "Hide Details"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3372
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3375
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3376
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3378
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/updater/theme-updater-admin.php:240
+msgid "Error"
+msgstr ""
+
+#: inc/updater/theme-updater-admin.php:271
+#: inc/updater/theme-updater-admin.php:318
+#: inc/updater/theme-updater-admin.php:371
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: inc/updater/theme-updater-admin.php:285
+#, php-format
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: inc/updater/theme-updater-admin.php:292
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: inc/updater/theme-updater-admin.php:297
+msgid "Invalid license."
+msgstr ""
+
+#: inc/updater/theme-updater-admin.php:303
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: inc/updater/theme-updater-admin.php:308
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: inc/updater/theme-updater-admin.php:313
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: inc/updater/theme-updater.php:33
+msgid "Theme License"
+msgstr ""
+
+#: inc/updater/theme-updater.php:34
+msgid "Enter your theme license key."
+msgstr ""
+
+#: inc/updater/theme-updater.php:35
+msgid "License Key"
+msgstr ""
+
+#: inc/updater/theme-updater.php:36
+msgid "License Action"
+msgstr ""
+
+#: inc/updater/theme-updater.php:37
+msgid "Deactivate License"
+msgstr ""
+
+#: inc/updater/theme-updater.php:38
+msgid "Activate License"
+msgstr ""
+
+#: inc/updater/theme-updater.php:39 inc/updater/theme-updater.php:52
+msgid "License status is unknown."
+msgstr ""
+
+#: inc/updater/theme-updater.php:40
+msgid "Renew?"
+msgstr ""
+
+#: inc/updater/theme-updater.php:41
+msgid "unlimited"
+msgstr ""
+
+#: inc/updater/theme-updater.php:42
+msgid "License key is active."
+msgstr ""
+
+#: inc/updater/theme-updater.php:43
+#, php-format
+msgid "Expires %s."
+msgstr ""
+
+#: inc/updater/theme-updater.php:44
+msgid "Lifetime License."
+msgstr ""
+
+#: inc/updater/theme-updater.php:45
+#, php-format
+msgid "You have %1$s / %2$s sites activated."
+msgstr ""
+
+#: inc/updater/theme-updater.php:46
+#, php-format
+msgid "License key expired %s."
+msgstr ""
+
+#: inc/updater/theme-updater.php:47
+msgid "License key has expired."
+msgstr ""
+
+#: inc/updater/theme-updater.php:48
+msgid "License keys do not match."
+msgstr ""
+
+#: inc/updater/theme-updater.php:49
+msgid "License is inactive."
+msgstr ""
+
+#: inc/updater/theme-updater.php:50
+msgid "License key is disabled."
+msgstr ""
+
+#: inc/updater/theme-updater.php:51
+msgid "Site is inactive."
+msgstr ""
+
+#: inc/updater/theme-updater.php:53
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+
+#: inc/updater/theme-updater.php:54
+#, php-format
+msgid ""
+"<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" class=\"thickbox\" "
+"title=\"%4s\">Check out what's new</a> or <a href=\"%5$s\"%6$s>update now</"
+"a>."
+msgstr ""
+
+#: inc/widgets/ads.php:25
+msgid "Sidebar Advertisement"
+msgstr ""
+
+#: inc/widgets/ads.php:41
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/ads.php:44
+msgid "Add your Advertisement Images Here"
+msgstr ""
+
+#: inc/widgets/ads.php:46
+msgid "Advertisement Image Link "
+msgstr ""
+
+#: inc/widgets/ads.php:50
+msgid "Advertisement Image "
+msgstr ""
+
+#: inc/widgets/ads.php:63
+msgid "Adsense code:"
+msgstr ""
+
+#: inc/widgets/sidebar-posts-list.php:30
+msgid "Sidebar Posts List"
+msgstr ""
+
+#: inc/widgets/sidebar-posts-list.php:33
+msgid "Show a list of posts from a selected category with big thumbnails"
+msgstr ""
+
+#: inc/widgets/sidebar-posts-list.php:148
+msgid "Title: "
+msgstr ""
+
+#: inc/widgets/sidebar-posts-list.php:152
+msgid "Posts list: "
+msgstr ""
+
+#: inc/widgets/sidebar-posts-list.php:155
+msgid "Posts number to show "
+msgstr ""
+
+#: inc/widgets/sidebar-posts-list.php:160
+msgid "Category: "
+msgstr ""
+
+#: inc/widgets/sidebar-posts-list.php:164
+msgid "Order by: "
+msgstr ""
+
+#: inc/widgets/sidebar-posts-list.php:166
+msgid "Most recent"
+msgstr ""
+
+#: inc/widgets/sidebar-posts-list.php:167
+msgid "Most commented"
+msgstr ""
+
+#: inc/widgets/sidebar-posts-list.php:168
+msgid "Random"
+msgstr ""
+
+#: inc/widgets/sidebar-posts-list.php:172
+msgid "Posts from "
+msgstr ""
+
+#: inc/widgets/sidebar-posts-list.php:174
+msgid "All Time"
+msgstr ""
+
+#: inc/widgets/sidebar-posts-list.php:175
+msgid "This year"
+msgstr ""
+
+#: inc/widgets/sidebar-posts-list.php:176
+msgid "This month"
+msgstr ""
+
+#: inc/widgets/sidebar-posts-list.php:177
+msgid "This week"
+msgstr ""
+
+#: inc/widgets/sidebar-posts-list.php:178
+msgid "Past 24 hours"
+msgstr ""
+
+#: inc/widgets/sidebar-posts-list.php:186
+msgid "Would you like to show posts with numbers?"
+msgstr ""
+
+#: inc/widgets/social-profiles.php:30
+msgid "arbah : Social Profiles"
+msgstr ""
+
+#: inc/widgets/social-profiles.php:33
+msgid "Show your social profiles"
+msgstr ""
+
+#: inc/widgets/social-profiles.php:124
+msgid "Write custom box text for each social network: "
+msgstr ""
+
+#: inc/widgets/social-profiles.php:126
+msgid "Facebook  Text: "
+msgstr ""
+
+#: inc/widgets/social-profiles.php:130
+msgid "Twitter  Text: "
+msgstr ""
+
+#: inc/widgets/social-profiles.php:134
+msgid "Instagram  Text: "
+msgstr ""
+
+#: inc/widgets/social-profiles.php:139
+msgid "Youtube  Text: "
+msgstr ""
+
+#: inc/widgets/social-profiles.php:143
+msgid "Linkedin  Text: "
+msgstr ""
+
+#: index.php:23
+msgid "Recent Posts"
+msgstr ""
+
+#: search.php:20 search.php:29
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:22 template-parts/content-single.php:42
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:34
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "arbah"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://www.ar-themes.com/wordpress-themes/arbah"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "An elegant magazine theme for wordpress."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ar-themes.com"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.ar-themes.com/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Fullwidth"
+msgstr ""
